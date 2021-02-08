@@ -11,7 +11,7 @@ couleurs:
   odd_section_color: "#ecf0f1"
 
 bandeau:
-  image: "/assets/images/logo-comobi-long-web.png"
+  image: "/images/logo-comobi-long-web.png"
   texte: "Bandeau Neutre"
 
 ## Les sections suivantes ne sont pas à modifier
@@ -22,3 +22,9 @@ sass:
 exclude:
   - direct/
   - outil-metier/
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
