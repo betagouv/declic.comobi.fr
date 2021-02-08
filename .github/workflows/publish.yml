@@ -7,6 +7,13 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
+      - name: clone comobi repository
+        uses: actions/checkout@v2.3.1
+          with: betagouv/comobi
+          ref: createGeneric
+      - name: move all files
+        run : |
+          mv comobi/* .
       - name: Checkout 🛎️
         uses: actions/checkout@v2.3.1 # If you're using actions/checkout@v2 you must set persist-credentials to false in most cases for the deployment to work correctly.
         with:
