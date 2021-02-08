@@ -9,8 +9,9 @@ jobs:
     steps:
       - name: clone comobi repository
         uses: actions/checkout@v2.3.1
-        with: betagouv/comobi
-        ref: createGeneric
+        with: 
+          repository: betagouv/comobi
+          ref: createGeneric
       - name: move all files
         run : |
           mv comobi/* .
