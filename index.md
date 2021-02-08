@@ -10,7 +10,7 @@ layout: home
 # Passagers, recherchez un trajet en ligne
 
 [Rechercher un trajet](/recherche){:target="_blank" .btn .search }
-![Calendrier](/assets/images/calendrier.png)
+![Calendrier](/images/calendrier.png)
 
 # Conducteurs, vous avez un super-pouvoir
 ... Celui de partager vos trajets en voiture !
@@ -18,7 +18,7 @@ layout: home
 Indiquez vos lieux de départ, d'arrivée et horaires habituels : pas de détour à faire ! Covoiturage régulier et/ou ponctuel : c'est vous qui choisissez.
 
 [Proposer mon trajet](https://docs.google.com/forms/d/e/1FAIpQLSfirgGZ4B_OnP3oe9q_CxMi3Lm5hpCyk_GSIdm9wtizvq3RMA/viewform){:target="_blank" .btn .proposal }
-![Hero](/assets/images/hero.png)
+![Hero](/images/hero.png)
 
 <!-- section -->
 # Questions fréquentes
