@@ -9,10 +9,15 @@ couleurs:
   bouton_rechercher: "#199bb0"
   bouton_proposer: "#22aa75"
   odd_section_color: "#ecf0f1"
+  header_btn_section: "#c9d622"
 
 bandeau:
   image: "/images/logo-comobi-long-web.png"
   texte: "Bandeau Neutre"
+
+code_source:
+  instance: https://github.com/betagouv/neutre.comobi.fr
+  comobi: https://github.com/betagouv/comobi
 
 ## Les sections suivantes ne sont pas à modifier
 sass:
