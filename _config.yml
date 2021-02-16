@@ -12,7 +12,7 @@ couleurs:
   header_btn_section: "#c9d622"
 
 bandeau:
-  image: "/images/logo-comobi-long-web.png"
+  image: "/images/banniere-neutre.png"
   texte: "Bandeau Neutre"
 
 code_source:
