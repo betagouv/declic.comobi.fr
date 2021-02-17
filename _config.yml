@@ -24,6 +24,12 @@ exclude:
   - direct/
   - outil-metier/
 
+include:
+  - _config.yml 
+
+keep_files:
+  - _config.yml 
+
 defaults:
   - scope:
       path: "assets/img"
