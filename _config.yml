@@ -16,14 +16,15 @@ bandeau:
   image: "/images/banniere-neutre.png"
   texte: "Bandeau Neutre"
 
-code_source:
-  instance: https://github.com/betagouv/neutre.comobi.fr
-  comobi: https://github.com/betagouv/comobi
-
 ## Les sections suivantes ne sont pas à modifier
 sass:
   sass_dir: _sass
   style: compressed
+
+code_source:
+  instance: https://github.com/betagouv/neutre.comobi.fr
+  comobi: https://github.com/betagouv/comobi
+
 
 exclude:
   - direct/
