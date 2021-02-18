@@ -5,20 +5,27 @@ nom: "Version Neutre"
 formulaire: "https://docs.google.com/forms/d/e/1FAIpQLSfirgGZ4B_OnP3oe9q_CxMi3Lm5hpCyk_GSIdm9wtizvq3RMA/viewform?usp=sf_link"
 formulaire_passager: "https://docs.google.com/forms/d/e/1FAIpQLScfZKk6qeVPw3zDVHnYl2Hzw6urgAXRYBXftW1WNb7CA325mA/viewform?usp=sf_link"
 liste_ville_restreinte: "oui"
+lien_cgu: "/cgu"
 
 couleurs: 
   bouton_rechercher: "#199bb0"
   bouton_proposer: "#22aa75"
   odd_section_color: "#ecf0f1"
+  header_btn_section: "#c9d622"
 
 bandeau:
-  image: "/images/logo-comobi-long-web.png"
+  image: "/images/banniere-neutre.png"
   texte: "Bandeau Neutre"
 
 ## Les sections suivantes ne sont pas à modifier
 sass:
   sass_dir: _sass
   style: compressed
+
+code_source:
+  instance: https://github.com/betagouv/neutre.comobi.fr
+  comobi: https://github.com/betagouv/comobi
+
 
 exclude:
   - direct/
