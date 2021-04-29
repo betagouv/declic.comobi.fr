@@ -9,7 +9,7 @@ jobs:
     steps:
       - name: Clone comobi-core repository
         run: |
-          git clone -b addSpecFiles --depth 1 https://github.com/betagouv/comobi-core.git .
+          git clone --depth 1 https://github.com/betagouv/comobi-core.git .
 
       - name: Clone specific repository
         run: |
