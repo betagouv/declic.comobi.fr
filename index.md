@@ -7,6 +7,12 @@ scripts:
 styles:
   - href: "./frontend_build/bundle.css"
 
-title: Trouvez un covoiturage pour vous déplacer pour vos trajets réguliers
-title-img: generic-images/logo-long-web.png
+image:
+  url: "generic-images/banniere-developpement.png"
+  alt: "bannière comobi"
+  bandeau: true
+
+title:  # Optionnel
+  text: "Trouvez un covoiturage pour vous déplacer pour vos trajets réguliers"
+  background: "#c9d622"
 ---
