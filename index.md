@@ -8,11 +8,11 @@ styles:
   - href: "./frontend_build/bundle.css"
 
 image:
-  url: "generic-images/banniere-developpement.png"
-  alt: "bannière comobi"
-  bandeau: true
+  url: ""
+  alt: ""
+  bandeau: false
 
 title:  # Optionnel
-  text: "Trouvez un covoiturage pour vous déplacer pour vos trajets réguliers"
-  background: "#c9d622"
+  text: "Trouvez un covoiturage pour vous rendre à la journée ressource de Decl'IC"
+  background: "#5b7e7a"
 ---
