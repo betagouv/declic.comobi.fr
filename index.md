@@ -9,10 +9,10 @@ styles:
 
 image:
   url: "./images/declic.jpg"
-  alt: "#ffffff"
+  alt: "logo declic"
   bandeau: false
 
 title:  # Optionnel
   text: "Trouvez un covoiturage pour vous rendre à la journée ressource de Decl'IC"
-  background: "#5b7e7a"
+  background: "#f6f6f6"
 ---
