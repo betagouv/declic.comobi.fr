@@ -15,9 +15,8 @@ bandeau:
   texte: "Bandeau Neutre"
 
 liste-logo:
-  - generic-images/ademe_logo.jpg
-  - generic-images/ANCT_Logo.jpg
-  - generic-images/beta_gouv_logo.jpg
+  - images/declic.png
+  - images/didascalis.jpg
 
 ## Les sections suivantes ne sont pas à modifier
 sass:
