@@ -8,8 +8,8 @@ styles:
   - href: "./frontend_build/bundle.css"
 
 image:
-  url: ""
-  alt: ""
+  url: "./images/declic.jpg"
+  alt: "#ffffff"
   bandeau: false
 
 title:  # Optionnel
