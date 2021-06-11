@@ -24,5 +24,5 @@ slogans:
 conducteur-img:
   url: "images/pissenlit.png"
   alt: "pissenlit"
-  height: "100px"
+  height: "300px"
 ---

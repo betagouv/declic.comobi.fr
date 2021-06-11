@@ -12,7 +12,7 @@ image:
   alt: "banniere declic"
   bandeau: true
 
-title:  # Optionnel
-  text: "Trouvez un covoiturage pour vous rendre à la journée ressource de Decl'IC"
-  background: "#f6f6f6"
+#title:  # Optionnel
+  #text: "Trouvez un covoiturage pour vous rendre à la journée ressource de Decl'IC"
+  #background: "#f6f6f6"
 ---
