@@ -8,9 +8,9 @@ styles:
   - href: "./frontend_build/bundle.css"
 
 image:
-  url: "./images/declic.jpg"
-  alt: "logo declic"
-  bandeau: false
+  url: "./images/banniere-declic.png"
+  alt: "banniere declic"
+  bandeau: true
 
 title:  # Optionnel
   text: "Trouvez un covoiturage pour vous rendre à la journée ressource de Decl'IC"
